@@ -376,6 +376,7 @@ Vcn = 178.5 V < -144.5°
 
 # 4.VIDEO
 
+https://youtu.be/u6dOtIKZa2g
 
 
 # 5.CONCLUSIONES 

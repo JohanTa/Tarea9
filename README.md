@@ -28,6 +28,78 @@ Analizar y comprender el capitulo 23-24 del libro de "Analisis de circuitos elec
 
 #Capitúlo 23:
 
+3.	Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.
+
+    a.	¿El voltaje se eleva o se reduce?
+    
+   ![capitulo 1 1](https://user-images.githubusercontent.com/81887698/132787941-977b080a-732e-4daf-a40b-549ace11c24a.PNG) 
+   
+    b.	Si Es = 100 sen ωt, ¿qué valor tiene ep cuando se devana como en la ﬁgura23-7(a)?
+    
+    ![1 2](https://user-images.githubusercontent.com/81887698/132787899-7d6372ce-f73a-4a6c-a638-ede45f49859f.PNG)   
+
+    c.	Si Es = 24 volts, ¿Qué valor tiene Ep?
+    
+    ![1 3](https://user-images.githubusercontent.com/81887698/132788010-d9edc2ce-38e5-44e4-ba60-f6b674e6a093.PNG)
+    
+    d.	Si Ep = 24 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁgura23-7(a)?
+    
+    ![1 4](https://user-images.githubusercontent.com/81887698/132788022-36e1faab-8efb-41b0-a10d-cf8b263f86e4.PNG)
+    
+    e.	Si Ep = 800 V ∠ 0°, ¿Qué valor tiene Es cuando se devana como en la ﬁgura23-7(b)?
+    
+    ![1 5](https://user-images.githubusercontent.com/81887698/132788037-7fa7168e-6913-403a-96d9-2d8fcfce54a7.PNG)
+
+5.	Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3.
+
+![5 1](https://user-images.githubusercontent.com/81887698/132788056-978e217e-c7e7-41ce-92ac-d91e934f451e.PNG)
+![5 2](https://user-images.githubusercontent.com/81887698/132788059-b03e91e2-eece-427e-952d-12382ec7c6b1.PNG)
+
+
+
+7.	Si, para la ﬁgura 23-73, Eg = 240 V ∠ 0°, a = 0.5, e Ig = 2A ∠ 20°, determine lo siguiente:
+
+    a.	IL
+    
+    ![7 1](https://user-images.githubusercontent.com/81887698/132788072-4e45355b-205b-4afc-8924-efd0d43c0708.PNG)
+
+    b.	VL
+    
+    ![7 2](https://user-images.githubusercontent.com/81887698/132788077-dbca3072-cb80-4f92-92ce-e389e80cbfc0.PNG)
+    
+    c.	ZL
+    
+    ![7 3](https://user-images.githubusercontent.com/81887698/132788114-5dd8f1ba-8c3a-4f11-8f33-6002acb38193.PNG)
+
+    
+9.	Si, para la ﬁgura 23-73, a =4, Ig = 4A ∠ 30° y ZL = 6Ω - j8Ω, determine lo siguiente:
+
+    a.	VL
+    
+    ![9 1](https://user-images.githubusercontent.com/81887698/132788123-0415d4ff-39f4-4cf6-8009-27454388de99.PNG)
+   
+    b.	Eg
+    ![9 2](https://user-images.githubusercontent.com/81887698/132788150-a70e25b7-3b0c-4e28-b42e-13306aef1cc7.PNG)
+
+    
+11.	Para cada circuito de la ﬁgura 23-74, determine Zp.
+    
+    ![11 1](https://user-images.githubusercontent.com/81887698/132788156-81429c5a-4324-43b7-9b0a-3e0aa226d779.PNG)
+![11 2](https://user-images.githubusercontent.com/81887698/132788164-daaf8787-58cf-4ffb-b299-e4d83db4a224.PNG)
+
+
+
+13.	Para la ﬁgura 23-74(a), ¿Qué relación de vueltas se requiere para hacer que Zp = (62.5 - j125)Ω?
+
+![13 1](https://user-images.githubusercontent.com/81887698/132788186-bd3fecc1-6c2f-44e6-be24-0f34ea70192a.PNG)
+
+
+15.	 Para cada circuito de la ﬁgura 23-75, determine ZT.
+
+![15 1](https://user-images.githubusercontent.com/81887698/132788191-f58ba201-2dff-4aa3-90eb-da69a3c88cd5.PNG)
+![15 2](https://user-images.githubusercontent.com/81887698/132788201-3bae43fa-3827-4ca0-8135-eaaf8c0775aa.PNG)
+![15 3](https://user-images.githubusercontent.com/81887698/132788209-178819f9-50a0-49da-8bf4-0cdefbaf4817.PNG)
+
 23. Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20ohm∠50 °, Z3 = (12 + j4) ohm y Eg = 120 V∠0 °. Calcula cada corriente de carga y la corriente del generador.
 
 ![23](https://user-images.githubusercontent.com/84783236/132785500-adca075b-b2a2-4357-a008-f019efb76929.jpg)

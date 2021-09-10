@@ -26,6 +26,11 @@ Analizar y comprender el capitulo 23-24 del libro de "Analisis de circuitos elec
 
 2.MARCO TEÓRICO (RESUMEN)
 
+CAP24
+
+![MM](https://user-images.githubusercontent.com/85522189/132788647-749f663e-9010-417e-a0c4-b939c4b936e8.PNG)
+
+
 #Capitúlo 23:
 
 3.	Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.

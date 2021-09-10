@@ -28,6 +28,50 @@ Analizar y comprender el capitulo 23-24 del libro de "Analisis de circuitos elec
 
 #Capitúlo 23:
 
+23. Para la figura 23-30 (a), a2 = 2 y a3 = 5, Z2 = 20ohm∠50 °, Z3 = (12 + j4) ohm y Eg = 120 V∠0 °. Calcula cada corriente de carga y la corriente del generador.
+
+![23](https://user-images.githubusercontent.com/84783236/132785500-adca075b-b2a2-4357-a008-f019efb76929.jpg)
+
+25. Para la figura 23-77, Ej. = 1220 V∠0 °. una. Dibuje el circuito equivalente. B. Determine Ig, IL, y VL.
+
+![25](https://user-images.githubusercontent.com/84783236/132785510-a866c457-4a5a-499b-862a-0f5cbd41ebf4.jpg)
+
+
+27. Un transformador que entrega Psal = 48 kW tiene una pérdida en el núcleo de 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta carga?
+
+![27](https://user-images.githubusercontent.com/84783236/132785519-78d58e2d-df52-48bf-a5c1-8e1b99b69496.jpg)
+
+
+29. Para la figura 23-78, Para cada circuito indique qué signo usar con M, más o menos.
+
+![29](https://user-images.githubusercontent.com/84783236/132785522-e2e14044-59d9-4e81-97cc-09b4683f139d.jpg)
+
+
+31. Para un conjunto de bobinas acopladas, L1 = 2 H, M = 0.8 H y el coeficiente de acoplamiento es de 0.6. Determinar L2
+
+![31](https://user-images.githubusercontent.com/84783236/132785530-59500747-d97e-410f-a8c1-e374869cd79a.jpg)
+
+33. Todo igual que en el problema 32, excepto que i1 = 10, e = 500t A. Encuentra las ecuaciones de los voltajes del primario y el secundario. Calcúlelos a = 1 ms.
+
+![33](https://user-images.githubusercontent.com/84783236/132785548-08e5cd22-d184-48ab-9c04-86b999445512.jpg)
+
+35. Para la figura 23-80, determine LT.
+
+![35](https://user-images.githubusercontent.com/84783236/132785556-2af695d6-7cda-4105-9818-ab2a0f1bed93.jpg)
+
+37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente?
+
+![37](https://user-images.githubusercontent.com/84783236/132785568-127f3072-54b5-4eba-bd04-bc3e1253bf84.jpg)
+
+
+39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla
+
+![39](https://user-images.githubusercontent.com/84783236/132785642-963da4e2-1912-4849-bfb1-ff9c71c3d494.jpg)
+
+
+41. Escriba las ecuaciones de malla para el circuito de la figura 23-85. (Este es un problema desafiante.)
+
+![41](https://user-images.githubusercontent.com/84783236/132785615-fc4a5a4c-acef-4ae1-83f1-4a41a4347250.jpg)
 
 
 

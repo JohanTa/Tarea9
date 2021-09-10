@@ -157,6 +157,138 @@ CAP24
 
 # Capitúlo 24:
 
+1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener
+en cuenta su valor real) las corrientes IA, IB, e IC sumarán cero. Para ilustrarlo,
+cambie la impedancia de carga de 12 hom a 15 ohm ∠30 y para EAA=  120 V∠0,
+haga lo siguiente:
+a. Calcule las corrientes IA, IB e IC.
+
+b. Sume las corrientes. ¿Se cumple IA  IB  IC  0?
+
+![image](https://user-images.githubusercontent.com/85320165/132795676-4b0095a0-a077-435d-9ee6-58a6f7e1bd32.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796026-0b530bc4-c574-43d8-9d5e-772df068c38b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796067-f5ac695c-5352-4c58-a210-901a728e5bbc.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796118-62b53aa5-8272-40eb-b2f6-7a316ccc9329.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796170-b434bb4a-5c9a-476f-b9b8-9690e3a1d4e9.png)
+
+3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada. 
+
+![image](https://user-images.githubusercontent.com/85320165/132796706-ce8642b7-159e-415e-bf0a-af075598412d.png)
+
+5. Para las cargas de la figura 24-4, Vbc  208 V∠-75.
+
+
+a. Determine los voltajes línea a línea Vab y Vca.
+
+b. Determine los voltajes de fase.
+
+c. Dibuje el diagrama fasorial. 
+
+![image](https://user-images.githubusercontent.com/85320165/132796825-0f092f67-7e03-4a1f-863b-f5c671ebbe58.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796854-8969447a-a220-4845-a8dc-8337a6cb8325.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132796887-c95f158e-6ca8-43f2-84e1-fb6e15d30cc7.png)
+
+7. Para la carga de la figura 24-47, Van  347 V∠15. Determine todas las corrientes de línea. Dibuje el diagrama fasorial.
+
+![image](https://user-images.githubusercontent.com/85320165/132796962-34eb5b3a-103a-4db2-a823-4c1d7d594ed1.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797043-c29e2241-8782-4325-8b14-0380ccb1053c.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797091-63e8c0a7-2919-4fc0-b9e2-5472c48f866d.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797110-95b5a4ec-9211-4d13-a89e-000e5735f7ee.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797135-a2af37c1-17e0-45eb-94ce-abc1bb80cc0d.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797248-bfed0355-76ad-4f0b-ac47-771a67c73564.png)
+
+
+9. Una carga Y balanceada tiene una impedancia de Zan  14.7 OHM ∠16.
+Si Vcn  120 V∠160 , determine todas las corrientes de línea
+
+![image](https://user-images.githubusercontent.com/85320165/132797418-29122fab-4197-479c-8b44-68fe162cab01.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797452-60fb288a-4a08-47fc-829e-085f26cde42b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797472-fabc733f-7392-425a-acdf-a1be1df5cd23.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797498-faeac696-284d-458b-8953-3819ae97d57d.png)
+
+
+11. Para el circuito de la figura 24-48, Vab  480 V∠0. Encuentre la fase y las
+corrientes de línea.
+
+![image](https://user-images.githubusercontent.com/85320165/132797544-84b0b47e-f1a2-431e-aa9f-ac0ac2d4729f.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797599-173c34ad-c96f-4053-aeca-0c48db4f374a.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797623-716f9dd4-1424-424a-b535-1934e4b0e7d9.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797651-80815c39-7aa8-494a-a4a0-7a73dd4d7af5.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132797663-f3685af4-fc07-43eb-aaca-281cf312e361.png)
+
+13. Para el circuito de la figura 24-48, si Iab  10 A∠-21, determine todos
+los voltajes de línea. 
+
+![image](https://user-images.githubusercontent.com/85320165/132797921-6cdf4672-892c-4f98-b7f7-c1e99f5f7a06.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/132797847-0d7e7642-a849-4214-8d64-59bfcf4faa1f.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/132797951-3c0ff623-5e5b-417b-97c5-35a79649e077.png)
+
+15. Una carga Y balanceada tiene una impedancia de fase de 24 OHM∠33 y un voltaje línea a línea de 600 V. Tome Van como referencia y determine todas las
+corrientes de línea
+
+
+![image](https://user-images.githubusercontent.com/85320165/132798177-bd4c0108-af5b-44f6-acf9-617f6c1fd8df.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/132798187-74ae17d8-826d-4056-a561-4dba0ac0b522.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/132798199-dfc756c5-0910-4fae-83a2-276a921e8237.png)
+
+
+19. Una carga 
+ balanceada a 60 Hz tiene una corriente de Ibc  4.5 A∠-85.
+El voltaje de línea es de 240 volts y Vab se toma como referencia.
+a. Encuentre las otras corrientes de fase.
+b. Encuentre las corrientes de línea.
+c. Encuentre la resistencia R y la capacitancia C de la carga. 
+
+![image](https://user-images.githubusercontent.com/85320165/132798309-44c8de68-8aa7-4850-a542-58fb53b5ca6b.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132798338-677f65de-d8d1-449e-a984-8ccd77dcb4db.png)
+
+![image](https://user-images.githubusercontent.com/85320165/132798361-e3f08135-05ab-4c42-a5fe-8f703296f2f3.png)
+
+
+21. Para la figura 24-49, Van  120 V∠0. Dibuje el equivalente de una sola
+fase y:
+a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+b. Encuentre el voltaje de línea EAB, magnitud y ángulo
+
+![image](https://user-images.githubusercontent.com/85320165/132798468-c9aa556f-620f-4cc0-a0fc-33a7f7acd061.png)
+
+a
+
+![image](https://user-images.githubusercontent.com/85320165/132798509-57ae772a-d067-49f1-a794-9bdd45722912.png)
+
+b
+![image](https://user-images.githubusercontent.com/85320165/132798551-43d31390-3c6b-480b-b682-049ed26b6d4a.png)
+
+
+
+
 
 29.- Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab 480 V∠30º. Encuentre el voltaje del generador EAB, magnitud y ángulo.
 

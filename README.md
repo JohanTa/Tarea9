@@ -1,6 +1,6 @@
 # Tarea9
 
-integrantes:
+# integrantes:
 
 -Josue Pillajo
 
@@ -10,7 +10,7 @@ integrantes:
 
 -Nayeli Tisalema
 
-1.OBJETIVOS
+# 1.OBJETIVOS
 
 1.1.Objetivo general.
 
@@ -30,8 +30,11 @@ CAP24
 
 ![MM](https://user-images.githubusercontent.com/85522189/132788647-749f663e-9010-417e-a0c4-b939c4b936e8.PNG)
 
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
-#Capitúlo 23:
+
+
+# Capitúlo 23:
 
 3.	Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.
 
@@ -152,7 +155,7 @@ CAP24
 
 
 
-#Capitúlo 24:
+# Capitúlo 24:
 
 
 29.- Los mismos datos que el problema 28 excepto que el voltaje de fase en la carga Δ es Vab 480 V∠30º. Encuentre el voltaje del generador EAB, magnitud y ángulo.
@@ -235,16 +238,15 @@ Vbn = 179 V <-144.26°
 
 Vcn = 178.5 V < -144.5°
 
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
 
 
 
-4.VIDEO
+# 4.VIDEO
 
 
 
-5.CONCLUSIONES 
+# 5.CONCLUSIONES 
 
 -El analisis los circuitos mediante los métodos estudiados facilitó la solución de los mismos. 
 
@@ -252,7 +254,7 @@ Vcn = 178.5 V < -144.5°
 
 -Reconoer como funcion el magnetismo en un circuito y como podemos ver como funciona, y tener una mejor mas comodidad a la hora de usar estos materiales.
 
-6.BIBLIOGRAFÍA
+# 6.BIBLIOGRAFÍA
 
 Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
 
